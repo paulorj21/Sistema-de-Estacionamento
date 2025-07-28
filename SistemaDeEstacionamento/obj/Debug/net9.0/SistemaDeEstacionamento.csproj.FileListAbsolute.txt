@@ -1,0 +1,14 @@
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\bin\Debug\net9.0\SistemaDeEstacionamento.exe
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\bin\Debug\net9.0\SistemaDeEstacionamento.deps.json
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\bin\Debug\net9.0\SistemaDeEstacionamento.runtimeconfig.json
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\bin\Debug\net9.0\SistemaDeEstacionamento.dll
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\bin\Debug\net9.0\SistemaDeEstacionamento.pdb
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\obj\Debug\net9.0\SistemaDeEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\obj\Debug\net9.0\SistemaDeEstacionamento.AssemblyInfoInputs.cache
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\obj\Debug\net9.0\SistemaDeEstacionamento.AssemblyInfo.cs
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\obj\Debug\net9.0\SistemaDeEstacionamento.csproj.CoreCompileInputs.cache
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\obj\Debug\net9.0\SistemaDeEstacionamento.dll
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\obj\Debug\net9.0\refint\SistemaDeEstacionamento.dll
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\obj\Debug\net9.0\SistemaDeEstacionamento.pdb
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\obj\Debug\net9.0\SistemaDeEstacionamento.genruntimeconfig.cache
+E:\Projetos\Deal Group - AI Centric .NET\Sistema de Estacionamento\SistemaDeEstacionamento\obj\Debug\net9.0\ref\SistemaDeEstacionamento.dll
